@@ -1,0 +1,5 @@
+/c1-versions.tf
+/.terraform/
+/.terraform.lock.hcl
+/.idea
+/private-key/
