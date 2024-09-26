@@ -3,3 +3,4 @@
 /.terraform.lock.hcl
 /.idea
 /private-key/
+/creation-time-vpc-id.txt
