@@ -1,6 +1,10 @@
-/c1-versions.tf
-/.terraform/
-/.terraform.lock.hcl
-/.idea
-/private-key/
-/creation-time-vpc-id.txt
+/terraform-manifests/private-key/
+/terraform-manifests/c1-versions.tf
+/terraform-manifests/.terraform/
+/scripts/
+/.idea/
+/terraform-manifests/.terraform.lock.hcl
+/kubernetes/kubeconfig/
+/terraform-manifests/creation-time-vpc-id.txt
+/terraform-manifests/my.tfplan
+/terraform-manifests/terraform.tfstate
