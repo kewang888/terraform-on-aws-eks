@@ -1,5 +1,4 @@
 /terraform-manifests/private-key/
-/terraform-manifests/c1-versions.tf
 /terraform-manifests/.terraform/
 /scripts/
 /.idea/
@@ -8,3 +7,10 @@
 /terraform-manifests/creation-time-vpc-id.txt
 /terraform-manifests/my.tfplan
 /terraform-manifests/terraform.tfstate
+/playground/
+/terraform-manifests/c1-providers.tf
+/02-eks-irsa-demo-terraform-manifests/c1-providers.tf
+/02-eks-irsa-demo-terraform-manifests/.terraform.lock.hcl
+/02-eks-irsa-demo-terraform-manifests/.terraform/
+/02-eks-irsa-demo-terraform-manifests/my.tfplan
+/02-eks-irsa-demo-terraform-manifests/terraform.tfstate
