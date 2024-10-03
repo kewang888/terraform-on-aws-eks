@@ -15,3 +15,5 @@
 /02-eks-irsa-demo-terraform-manifests/my.tfplan
 /02-eks-irsa-demo-terraform-manifests/terraform.tfstate
 /02-lbc-install-terraform-manifests/c1-providers.tf
+/terraform-manifests-4-eks-private-endpoint/c1-providers.tf
+/terraform-manifests-4-eks-private-endpoint/private-key/
