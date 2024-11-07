@@ -17,3 +17,9 @@
 /02-lbc-install-terraform-manifests/c1-providers.tf
 /terraform-manifests-4-eks-private-endpoint/c1-providers.tf
 /terraform-manifests-4-eks-private-endpoint/private-key/
+/terraform-manifests-use-eks-module/private-key/eks-terraform-key.pem
+/terraform-manifests-use-eks-module/c1-providers.tf
+/terraform-manifests-use-eks-module/.terraform/
+/terraform-manifests-use-eks-module/.terraform.lock.hcl
+/terraform-manifests-use-eks-module/my.tfplan
+/terraform-manifests-use-eks-module/terraform.tfstate
