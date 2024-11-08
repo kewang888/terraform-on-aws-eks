@@ -23,3 +23,8 @@
 /terraform-manifests-use-eks-module/.terraform.lock.hcl
 /terraform-manifests-use-eks-module/my.tfplan
 /terraform-manifests-use-eks-module/terraform.tfstate
+/lbc-install-terraform-manifests-use-eks-module/c1-providers.tf
+/lbc-install-terraform-manifests-use-eks-module/.terraform/
+/lbc-install-terraform-manifests-use-eks-module/.terraform.lock.hcl
+/lbc-install-terraform-manifests-use-eks-module/my.tfplan
+/lbc-install-terraform-manifests-use-eks-module/terraform.tfstate
