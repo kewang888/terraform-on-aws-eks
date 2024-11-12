@@ -1,0 +1,24 @@
+---
+apiVersion: networking.istio.io/v1
+kind: VirtualService
+metadata:
+  name: ua-app
+  namespace: production
+spec:
+  hosts:
+    - app.devopsbyexample.com # Must match the host specified in the Gateway
+  gateways:
+    - api # References the Gateway
+  http:
+    - match:
+        - uri:
+            prefix: /
+      route:
+        - destination:
+            host: ua-app # Backend service to route to
+            subset: v1
+          weight: 10
+        - destination:
+            host: ua-app # Backend service to route to
+            subset: v2
+          weight: 90

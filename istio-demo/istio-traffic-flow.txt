@@ -1,0 +1,22 @@
+Client
+   |
+   v
+AWS Network Load Balancer (NLB)
+   |
+   v
+Istio Gateway (Ingress)
+   |
+   v
+Istio VirtualService
+   |
+   v
+Istio DestinationRule
+   |
+   v
+Kubernetes Service (app)
+   |
+   v
+Kubernetes Deployment (app)
+   |
+   v
+Application Pods
